@@ -1,0 +1,22 @@
+segment_sources:
+  PD7A77FED:
+    type: origin_type
+    relation: translation
+    language: en
+  P01FC92F9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1f5a18c0836640fb937c9185e0b54702:
+    PD7A77FED: 7c665b11b225424396eaf6355dcf1949
+    P01FC92F9: 260f199d1f0b4d2eb529640c70c56187
+  e2a589b48b0c4c6eade11317791792f5:
+    PD7A77FED: 250126860f2a46429b94747e1d8ea214
+    P01FC92F9: 106c41d21486480db69556f0eed25726
+  df4bce4c7b0a44708f22c87e91be9a2d:
+    PD7A77FED: 9ac74cff77674fb08c1c1cd4d37cf074
+    P01FC92F9: 62c925e8d4b3480a82e8a44e58174899
+  d880845b96164fb5b49755fee3b89974:
+    PD7A77FED: 0757e95f649e423db8282537d646db8a
+    P01FC92F9: ab5c03be2d5e4a8b9e4526bc9296f4f2
